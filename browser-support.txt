@@ -1,0 +1,5 @@
+browser-support.txt
+Chrome
+Firefox
+safari
+Edge
